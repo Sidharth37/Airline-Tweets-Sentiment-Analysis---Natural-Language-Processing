@@ -22,8 +22,7 @@ The main aim of this step was to get rid of words, which added no paritucular fu
 <b>Step 1-</b> We started by running blocks of regualar expressions to get remove Emojis, Symbols, Pictographs, Transport and Map Symbols.<br>
 <b>Step 2-</b> In the next stage we removed links and other symbols like #, which didn't convey any informational meaning.<br>
 <b>Step 3-</b> After that we converted all the text to lower characters and removed stock words<br>
-<br>
-<b>Note:</b> Stop words are commonly used words in the english language, which do not carry significant functional information. E.g. - is, was, are, a, I ...
+<b>Note:</b> Stop words are commonly used words in the english language, which do not carry significant functional information. E.g. - is, was, are, I ...
 <br>
 <b>Vectorization</b> - At this stage we converted the remaining part of the tweets, into a matrix, with values calculated based on the repetition of words in a particular tweet and number of tweets with those words in it.<br>
 <b>Note:</b>Word Embeddings or Word vectorization is a methodology in NLP to map words or phrases from vocabulary to a corresponding vector of real numbers which used to find word predictions, word similarities/semantics. The process of converting words into numbers are called Vectorization.<br><br>
