@@ -15,6 +15,9 @@ A huge majority of these tweets have come from the United States. All of these t
 <br>
 Looking at the retweet counts of each of these tweets, these tweets belonged to individuals with a common popularity status, not famous or influential individuals.
 <br>
-
 The main reason to focus on the audience, was to understand the lingo on tweets, we are building our Machine Learning Model on.
-
+<br><br>
+<b>Data Pre-processing and Vectorization -</b><br>
+The main aim of this step was to get rid of words, which added no paritucular functional or informational meaning to the tweet text.
+We started by running blocks of regualar expression to get remove Emojis, Symbols, Pictographs, Transport and Map Symbols.
+The next stage 
