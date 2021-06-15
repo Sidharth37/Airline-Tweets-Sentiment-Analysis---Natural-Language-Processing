@@ -33,7 +33,7 @@ The main aim of this step was to get rid of words, which added no paritucular fu
 The first step was to form a train/test split in a 80:20 ratio.<br>
 For the actual modeling, we built a Random Forest based classifier.<br>
 The accuracy associated with it is 75.82%, which is supported by classifying 2928 tweets.<br>
-The value associated with identifying a negative tweet is far greated than the value associating a positive tweet. The identification of negative tweets provide us with areas for constructive improvements, for betterment of the service we provide. The precision with which we are able to identify negative tweets is 92%.
+The value associated with identifying a negative tweet is far greater than the value associated with identifying a positive tweet. The identification of negative tweets provide us with areas for constructive improvements, for betterment of the service we provide. The score with which we are able to identify negative tweets is 92%.
 
 
 
