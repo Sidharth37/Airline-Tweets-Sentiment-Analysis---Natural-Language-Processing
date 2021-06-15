@@ -1,5 +1,8 @@
 # Airline-Tweets-Sentiment-Analysis---Natural-Language-Processing
-Analysis and classification of airline tweets into positive, negative and neutral. 
+Analysis and classification of airline tweets into positive, negative and neutral.
+
+<b>Business Case?</b><br>
+We live in the times of the internet and social media, we turn to the internet for almost anything, from deciding which restaurant to eat from, to getting a gift for your neighbour. It becomes increasingly important for organizations around the globe to understand the image of the companies potrayed on the internet to it's potential buyers. We have made one such effort to understand the sentiments of people using the services of the airline industry. This project can be further extended to other social media websites like Instagram, Facebook ... and also other sectors like hotel industry, restaurants, cab services, food delivery partners, and much more. Things like tweets, comments and posts are no longer just an experience that a person shares but have become a uncensored review box for buyers and customers looking for services all around the world.  
 
 The project is divided into 3 main parts:
 1) Initial Data Load and Exploratory Data Analysis
