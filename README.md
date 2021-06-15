@@ -22,7 +22,7 @@ The main reason to focus on the audience, was to understand the lingo on tweets,
 <br><br>
 <b>Data Pre-processing and Vectorization -</b><br>
 The main aim of this step was to get rid of words, which added no paritucular functional or informational meaning to the tweet text.<br>
-<b>Step 1-</b> We started by running blocks of regualar expressions to get remove Emojis, Symbols, Pictographs, Transport and Map Symbols.<br>
+<b>Step 1-</b> We started by running blocks of regualar expressions to remove Emojis, Symbols, Pictographs, Transport and Map Symbols.<br>
 <b>Step 2-</b> In the next stage we removed links and other symbols like #, which didn't convey any informational meaning.<br>
 <b>Step 3-</b> After that we converted all the text to lower characters and removed stock words<br>
 <b>Note:</b> Stop words are commonly used words in the english language, which do not carry significant functional information. E.g. - is, was, are, I ...
