@@ -19,5 +19,7 @@ The main reason to focus on the audience, was to understand the lingo on tweets,
 <br><br>
 <b>Data Pre-processing and Vectorization -</b><br>
 The main aim of this step was to get rid of words, which added no paritucular functional or informational meaning to the tweet text.
-We started by running blocks of regualar expression to get remove Emojis, Symbols, Pictographs, Transport and Map Symbols.
-The next stage 
+We started by running blocks of regualar expressions to get remove Emojis, Symbols, Pictographs, Transport and Map Symbols.
+In the next stage we removed links and other symbols like #, which didn't convey any informational meaning.
+
+
